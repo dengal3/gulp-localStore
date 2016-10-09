@@ -1,0 +1,23 @@
+{
+  "name": "localstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dengal3/gulp-localStore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dengal3/gulp-localStore/issues"
+  },
+  "homepage": "https://github.com/dengal3/gulp-localStore#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "uglify-js": "^2.7.3"
+  }
+}
